@@ -1,4 +1,4 @@
-# TFM-SECURE-QUANTUM-COMUNICATIONS
+# TFM-QUANTUM-SECURE-COMUNICATIONS
 ## Quantum Key Distribution with BB84 and Quantum Error Correction using Steane Code
 
 This repository contains the implementation of the **BB84 quantum key distribution protocol**, enhanced with **quantum error correction** using the **[7,4,3] Steane code**.  
