@@ -29,16 +29,15 @@ This project was developed as part of my **Master's Thesis** in the field of qua
   - `numpy`
   - `matplotlib`
 
-## Installation
-
-Install the required packages using pip in python:
-
-```bash
-pip install qiskit numpy matplotlib
-
 ---
 
-## License and Academic Use
+## License and academic use
 
-This project was developed for academic and research purposes as part of my Master’s Thesis.
-You are welcome to use, adapt, and reference this work with proper attribution.
+
+ This project was developed for academic and research purposes 
+ as part of my Master’s Thesis.
+ 
+ You are welcome to use, adapt, and reference this work 
+ with proper attribution.
+ 
+ Please cite this repository if you use it in your research or projects.
